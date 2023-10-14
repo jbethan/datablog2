@@ -21,6 +21,7 @@ tags:
 7. [Visualization](#7-visualization)
 8. [Future for Excel and Data Folks](#8-future-for-excel-and-data-folks)
 
+
 ## 1. Introduction
 
 When you got hired as a data scientist you didn’t know you would be a one-stop shop for all things data at your company, but here you are. Most days you’re so busy juggling your data analyst and data engineer hats, you wonder what was the point of getting a masters degree in data science. In fact, when the company hired you, they didn’t even have a data pipeline. You’ve bled, sweat, and shed a few tears to build your company’s data workflow from scratch and if you see one more Excel spreadsheet with its archaic, overly complex interface and inferior, tabular data keeping, so help the wayward soul who brings it across your desk.
@@ -44,6 +45,7 @@ A cell can also be converted to a Python coding block by changing the output of 
 
 ![Figure]({{site.url}}/assets/images/Py3.png)
 
+
 ## 3. Create a Data Frame
 
 After the cell have been converted into a Python coding block, a data frame can be created by selecting cells with the block of data to us	e or by typing the following code in the cell: dataframe = xl( “[replace with cell range]“, headers=True). 
@@ -59,17 +61,48 @@ The following open-source libraries are available with Python in Excel by defaul
 In addition to the core libraries, you can import additional libraries available through Anaconda. Import Python libraries into Excel using a Python import statement in a Python in Excel cell using the following syntax:
 
 ```python
-import astropy as as
+import astropy as ast
+```
+Libraries available through for Python on in Excel through Anaconda include:
+
+![Figure]({{site.url}}/assets/images/chart1.png)
+
+## 5. Clean & Analyze
+
+Excel has traditionally struggled with data type classifications, confusing numbers, dates, and text vaguely hidden in the background of the data with clunky drop downs to reassign type. Using the cleaning tools available in Python libraries helps to compensate for these deficits within Excel, while also allowing the Python user access to benefits of Excel's user and regex friendly Find-and-Replace tool.
+
+![Figure]({{site.url}}/assets/images/ExtractAndFormatData.gif)
+
+Cleaned data can then be analyzed within the sheet using Python code and libraries, opening a word of fast analytics and statistical summaries without the hassle of jostling datasets between platforms.
+
+![Figure]({{site.url}}/assets/images/Py7.png)
+
+## 6. Visualize
+
+To polish it all off, the new Python Integration allows direct access to visual libraries such as seaborn for deeper analytical graphs, while still allowing for visual tools provided by Excel such as Conditional Formatting and Pivot Tables.
+
+```python
+pairplot = sns.pairplot(xl("Table1[#All]", headers=True))
 ```
 
-## 5. Cleaning
+![Figure]({{site.url}}/assets/images/Py5.png)
 
-Excel has traditionally struggled with data type classifications, confusing numbers, dates, and text vaguely hidden in the background of the data with clunky drop downs to reassign type. 
+![Figure]({{site.url}}/assets/images/Py6.png)
 
-## 6. Statistics
+## 7. Collaborate
 
-## 7. Visualization
+Finally, because your company is using the Microsoft Teams. You can collaborate with Sydney and even her Marketing Director in real time through commenting and version tracking.
+
+![Figure]({{site.url}}/assets/images/Py8.png)
 
 ## 8. Future for Excel and Data Folks
+
+Framed in perspective, the new Python Integration in Excel isn't going to become your primary Data Science IDE. Excel just isn't meant for Big Data. 
+
+However, the business world is compromised of far more small datasets. For our diligent Spreadsheet Queen Sydney, the Python Integration in Excel opens up a richer world of analysis without requiring her to become a programmer so that in the future she potentially doesn't need to tag you in for an unnecessary project.
+
+For you as the data scientist, Excel acknowledges that when you need to handle a million point database you're not going to come to them to handle it. However, Microsoft is seeking to make Excel a more powerful ETL tool, designed to pair with Microsoft Power Query for better data aqcuisition, as well as serving as framework for the visualualization tools being innovated in Microsoft Power Bi. 
+
+Set skeptism aside, keep your eyes peeled and heart open, then give the new Python Integration a try before reading in the next Excel file you're handed to a different platform.
 
 [back](../)
