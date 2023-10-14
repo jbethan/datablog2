@@ -50,6 +50,8 @@ A cell can also be converted to a Python coding block by changing the output of 
 
 After the cell have been converted into a Python coding block, a data frame can be created by selecting cells with the block of data to us	e or by typing the following code in the cell: dataframe = xl( “[replace with cell range]“, headers=True). 
 
+![Figure]({{site.url}}/assets/images/Py4.png)
+
 ## 4. Libraries
 
 The following open-source libraries are available with Python in Excel by default. They've been imported with the statements listed. 
