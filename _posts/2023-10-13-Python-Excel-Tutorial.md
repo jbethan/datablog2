@@ -26,7 +26,7 @@ tags:
 
 When you got hired as a data scientist you didn’t know you would be a one-stop shop for all things data at your company, but here you are. Most days you’re so busy juggling your data analyst and data engineer hats, you wonder what was the point of getting a masters degree in data science. In fact, when the company hired you, they didn’t even have a data pipeline. You’ve bled, sweat, and shed a few tears to build your company’s data workflow from scratch and if you see one more Excel spreadsheet with its archaic, overly complex interface and inferior, tabular data keeping, so help the wayward soul who brings it across your desk.
 
-![Figure]({{site.url}}/assets/images/meme.png)
+![Figure]({{site.url}}/assets/images/meme1.png)
 
 Enter Sydney from marketing. She’s a really good friend. She’s had your back time and again. Sydney has been working her butt off to put together a big sales report for the next board meeting. She’s pulled out all the stops and applied every skill in Excel she knows for this report. This thing is gorgeous. Multiple tabbed sheets of tables with bolded, colorful headers and thoughtfully placed gridlines, bulleted and italicized key points, conditional formatting, pivot tables, formulas calculating key information, and some helpful hyperlinks for those seeking additional resources. If there was an art gallery for spreadsheets, Sydney’s report would be the showcase. However, 3 days away from the meeting, the Marketing Director has come back and told Sydney that the analytics and graphs just aren’t going to cut it and she needs to tag in the resident data guru, you.
 
