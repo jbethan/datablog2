@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: "https://jbethan.github.io"
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: "/datablog2"
+#baseurl: "/datablog2"
 
 # Title of the Site
 title: Yep, It's a Data Science Blog
