@@ -2,7 +2,7 @@
 title: Microsoft Introduces Python Integration to Excel in Hopes that You’ll Hate It Less
 layout: post
 post-image: \assets\images\8UR9R5F-Imgur.jpg
-#description: Test Post for Github Blog
+description: A Tutorial for the new Python Integration in Excel
 tags:
 - python
 - excel
@@ -10,6 +10,7 @@ tags:
 - data science
 - technology
 ---
+
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
