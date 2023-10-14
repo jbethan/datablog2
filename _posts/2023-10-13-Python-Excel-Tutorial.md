@@ -53,11 +53,15 @@ After the cell have been converted into a Python coding block, a data frame can 
 ## 4. Libraries
 
 The following open-source libraries are available with Python in Excel by default. They've been imported with the statements listed. 
-•	matplotlib. Import statement: import matplotlib.pyplot as plt
-•	NumPy. Import statement: import numpy as np
-•	pandas. Import statement: import pandas as pd
-•	seaborn. Import statement: import seaborn as sns
-•	statsmodels. Import statement: import statsmodels as sm
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import statsmodels as sm
+```
+
 In addition to the core libraries, you can import additional libraries available through Anaconda. Import Python libraries into Excel using a Python import statement in a Python in Excel cell using the following syntax:
 
 ```python
