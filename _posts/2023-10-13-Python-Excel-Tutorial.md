@@ -75,7 +75,7 @@ Libraries available through for Python on in Excel through Anaconda include:
 
 Excel has traditionally struggled with data type classifications, confusing numbers, dates, and text vaguely hidden in the background of the data with clunky drop downs to reassign type. Using the cleaning tools available in Python libraries helps to compensate for these deficits within Excel, while also allowing the Python user access to benefits of Excel's user and regex friendly Find-and-Replace tool.
 
-![Figure]({{site.url}}/assets/images/ExtractAndFormatData.gif)
+![Figure]({{site.url}}/assets/images/extract1.png)
 
 Cleaned data can then be analyzed within the sheet using Python code and libraries, opening a word of fast analytics and statistical summaries without the hassle of jostling datasets between platforms.
 
