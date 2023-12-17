@@ -26,7 +26,7 @@ tags:
 Graphs
 Average Data Job Salaries to Average Salary in State
 
-<iframe src="https://raw.githubusercontent.com/jbethan/finalproj_state_affordability/main/Income_Comp.html" width="100%" height="400px"></iframe>
+<iframe src="https://jbethan.github.io/assets/images/Income_Comp.html"" width="100%" height="400px"></iframe>
 
 25% Percentile Data Salary to Median Salary in State
 
