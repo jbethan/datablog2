@@ -25,7 +25,10 @@ tags:
 
 Graphs
 Average Data Job Salaries to Average Salary in State
-<iframe src="assets/images/Income_Comp.html" width="100%" height="500px"></iframe>
+<iframe src="assets/images/Income_Comp.html" width="100%" height="400px"></iframe>
+
+assets/images/Income_Comp.html
+<iframe src="assets/images/Income_Comp.html" width="100%" height="400px"></iframe>
 
 25% Percentile Data Salary to Median Salary in State
 
