@@ -27,9 +27,8 @@ Graphs
 Average Data Job Salaries to Average Salary in State
 <iframe src="jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
-![Fig1!] (assets/images/386final_eda/1DA_Income.html)
+![Fig1!] (jbethan.github.io/assets/images/386final_eda/1DA_Income.html)
 
-assets/images/Income_Comp.html
 <iframe src="https://github.com/jbethan/jbethan.github.io/blob/jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
 25% Percentile Data Salary to Median Salary in State
