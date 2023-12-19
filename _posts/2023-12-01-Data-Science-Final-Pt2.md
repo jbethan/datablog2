@@ -25,7 +25,7 @@ tags:
 
 Graphs
 Average Data Job Salaries to Average Salary in State
-<iframe src="https://github.com/jbethan/finalproj_state_affordability/blob/a70b91f15cb3a7fe4712f7e2dda0601c91fb4ac7/DA_Income.html" width="100%" height="400px"></iframe>
+<iframe src="jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
 assets/images/Income_Comp.html
 <iframe src="assets/images/Income_Comp.html" width="100%" height="400px"></iframe>
