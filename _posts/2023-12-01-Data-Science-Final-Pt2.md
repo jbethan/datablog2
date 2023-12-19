@@ -25,7 +25,7 @@ tags:
 
 Graphs
 Average Data Job Salaries to Average Salary in State
-<iframe src="https://github.com/jbethan/jbethan.github.io/blob/e27b65b9a76b21f6f99d175b8fc0584fdbf5a95d/assets/images/Income_Comp.html" width="100%" height="400px"></iframe>
+<iframe src="https://github.com/jbethan/finalproj_state_affordability/blob/a70b91f15cb3a7fe4712f7e2dda0601c91fb4ac7/DA_Income.html" width="100%" height="400px"></iframe>
 
 assets/images/Income_Comp.html
 <iframe src="assets/images/Income_Comp.html" width="100%" height="400px"></iframe>
@@ -54,6 +54,5 @@ Paycheck-to-Paycheck Tax Burden (Income v Sales)
 
 Home Ownership Tax Burden (Property)
 
-20-30-50 Rule
 
 ## 6. Conclusion
