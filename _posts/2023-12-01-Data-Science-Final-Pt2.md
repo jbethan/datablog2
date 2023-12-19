@@ -23,18 +23,15 @@ tags:
 
 ## 2. Income
 
-# %%
-data = pd.read_csv('https://raw.githubusercontent.com/jbethan/finalproj_state_affordability/main/2023_state_dataset.csv', index_col=None)
-data = data.drop(data.columns[0], axis=1)
-data.head()
-
-Image Test 20
+Image Test 21
 Average Data Job Salaries to Average Salary in State
+![Figure]({{site.url}}/assets/images/386final_eda/fig1.png)
 ![Figure]({{site.url}}/assets/images/386final_eda/fig2.png)
 
-![Figure]({{site.url}}/assets/images/fig1.png)
+![Figure]({{site.url}}/assets/images/386final_eda/1DA_Income.html)
 
-25% Percentile Data Salary to Median Salary in State
+
+
 
 ## 3. Rent
 
