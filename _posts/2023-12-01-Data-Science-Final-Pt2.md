@@ -29,6 +29,10 @@ Average Data Job Salaries to Average Salary in State
 
 ![Fig1!] (jbethan.github.io/assets/images/386final_eda/1DA_Income.html)
 
+{% raw %}
+<iframe frameborder="no" marginwidth="0" marginheight="0" width="298" height="52" src="https://github.com/jbethan/jbethan.github.io/blob/jbethan.github.io/assets/images/386final_eda/1DA_Income.html"></iframe>
+{% endraw %}
+
 <iframe src="https://github.com/jbethan/jbethan.github.io/blob/jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
 <iframe src="jbethan.github.io/assets/images
