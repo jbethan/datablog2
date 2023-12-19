@@ -28,23 +28,11 @@ data = pd.read_csv('https://raw.githubusercontent.com/jbethan/finalproj_state_af
 data = data.drop(data.columns[0], axis=1)
 data.head()
 
-Graphs
+Image Test 20
 Average Data Job Salaries to Average Salary in State
-<iframe src="jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
-
 ![Figure]({{site.url}}/assets/images/386final_eda/fig2.png)
 
 ![Figure]({{site.url}}/assets/images/fig1.png)
-
-ASD
-{% raw %}
-<iframe frameborder="no" marginwidth="0" marginheight="0" width="100%" height="400px" src="https://raw.githubusercontent.com/jbethan/finalproj_state_affordability/main/DA_Income.html"></iframe>
-{% endraw %}
-
-![Figure]({{site.url}}assets/images/386final_eda/1DA_Income.html)
-
-<iframe src="jbethan.github.io/assets/images
-/chart1.png"></iframe>
 
 25% Percentile Data Salary to Median Salary in State
 
