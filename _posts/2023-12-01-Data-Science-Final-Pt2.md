@@ -31,6 +31,9 @@ Average Data Job Salaries to Average Salary in State
 
 <iframe src="https://github.com/jbethan/jbethan.github.io/blob/jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
+<iframe src="jbethan.github.io/assets/images
+/chart1.png"></iframe>
+
 25% Percentile Data Salary to Median Salary in State
 
 ## 3. Rent
