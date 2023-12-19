@@ -18,8 +18,6 @@ tags:
 
 ## 1. Introduction
 
-![Figure]({{site.url}}/assets/images/meme1.png)
-
 You did it! Late night study sessions. Midterm madness. Enough hours coding projects to binge every episode of the Office 10 times over. You got your degree and now you're moving onto your first big kid data job! But reality is times are tough for the young aspiring data professional. Your parents paid $6,000 for their entire 4 year education and bought a house for $75,000 in 1990. Meanwhile you're about to be sweating bullets whether $6,000 will cover deposit with first and last months rent for that cute little apartment you scored while leaving enough to afford a decent mattress. 
 
 If you read that last sentence and are from an area with a lower cost of living, you probably think I just have bougie tastes. If you're from San Francisco, you're wondering if that apartment comes with 4 walls and a roof. The place you move to for your first job not only determines whether you're ordering doordash or driving for doordash after your 9 to 5, but what kind of growth is afforable as you build your future. In this economy, a big salary job straight out of school in an expensive metropolitan area could leave you worse off in 10 years than a decent salary in a more affordable area. With the "2.5 kids and a house by 30" American Dream retiring with the Baby Boomer generation, it's never been more important to understand the affordability of the areas where you're job hunting.
@@ -161,7 +159,8 @@ A similiar cleaning process was used for the data read into the variables for Da
 
 While it was possible to find home insurance averages for each state, the average cost of home insurance varies widely by the cost of the home, especially since median house prices varies by state as well. To create an estimate for the average home insurance cost specific to each state's median house price. I calculated a rate from the average insurance cost divided by the house cost for each $100k home value bracket. I took the median house price from each state, searched for the price bracket it fell into, then multiplied it to the rate for the bracket and state it fit to estimate an average home insurance estimate for that price. This number was later divided into 12 payments and factored into the monthly total house payment.
 
-```Clean up
+```python
+Clean up
 cols = ['Average annual rates for $200,000 in dwelling coverage', 'Average annual rates for $300,000 in dwelling coverage',	'Average annual rates for $400,000 in dwelling coverage', 'Average annual rates for $500,000 in dwelling coverage']
 df_ins[cols]= df_ins[cols].replace('\$', '', regex = True)
 df_ins[cols]= df_ins[cols].replace(',', '', regex = True).astype(float)
