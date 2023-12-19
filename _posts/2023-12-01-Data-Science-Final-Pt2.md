@@ -34,8 +34,7 @@ ASD
 <iframe frameborder="no" marginwidth="0" marginheight="0" width="100%" height="400px" src="https://raw.githubusercontent.com/jbethan/finalproj_state_affordability/main/DA_Income.html"></iframe>
 {% endraw %}
 
-
-<iframe src="https://github.com/jbethan/jbethan.github.io/blob/jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
+![Figure]({{site.url}}assets/images/386final_eda/1DA_Income.html)
 
 <iframe src="jbethan.github.io/assets/images
 /chart1.png"></iframe>
