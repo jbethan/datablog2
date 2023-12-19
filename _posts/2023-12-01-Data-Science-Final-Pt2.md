@@ -31,7 +31,7 @@ Average Data Job Salaries to Average Salary in State
 
 ASD
 {% raw %}
-<iframe frameborder="no" marginwidth="0" marginheight="0" width="100%" height="400px" src="jbethan.github.io/assets/images/386final_eda/1DA_Income.html"></iframe>
+<iframe frameborder="no" marginwidth="0" marginheight="0" width="100%" height="400px" src="https://raw.githubusercontent.com/jbethan/finalproj_state_affordability/main/DA_Income.html"></iframe>
 {% endraw %}
 
 
