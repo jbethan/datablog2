@@ -23,11 +23,16 @@ tags:
 
 ## 2. Income
 
+# %%
+data = pd.read_csv('https://raw.githubusercontent.com/jbethan/finalproj_state_affordability/main/2023_state_dataset.csv', index_col=None)
+data = data.drop(data.columns[0], axis=1)
+data.head()
+
 Graphs
 Average Data Job Salaries to Average Salary in State
 <iframe src="jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
-![Fig1!] (jbethan.github.io/assets/images/386final_eda/1DA_Income.html)
+![Fig1] (jbethan.github.io/assets/images/386final_eda/fig1.png)
 
 ASD
 {% raw %}
