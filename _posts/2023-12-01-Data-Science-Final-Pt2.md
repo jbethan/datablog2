@@ -32,7 +32,9 @@ Graphs
 Average Data Job Salaries to Average Salary in State
 <iframe src="jbethan.github.io/assets/images/386final_eda/1DA_Income.html" width="100%" height="400px"></iframe>
 
-![Fig1] (jbethan.github.io/assets/images/386final_eda/fig1.png)
+![Figure]({{site.url}}/assets/images/386final_eda/fig2.png)
+
+![Figure]({{site.url}}/assets/images/fig1.png)
 
 ASD
 {% raw %}
