@@ -24,21 +24,29 @@ tags:
 ## 2. Income
 
 Image Test 21
+
+![Figure]({{site.url}}/assets/images/386final_eda/fig3.png)
+
 Average Data Job Salaries to Average Salary in State
 ![Figure]({{site.url}}/assets/images/386final_eda/fig1.png)
 ![Figure]({{site.url}}/assets/images/386final_eda/fig2.png)
 
-![Figure]({{site.url}}/assets/images/386final_eda/1DA_Income.html)
-
-
-
+Job Availability
+![Figure]({{site.url}}/assets/images/386final_eda/fig4.png)
 
 ## 3. Rent
 
 Graphs
 Rent to Median Salary in State
 
-Rent 25% Percentile Data Job Salary
+Sq ft
+![Figure]({{site.url}}/assets/images/386final_eda/fig5.png)
+
+Rent v Income
+
+![Figure]({{site.url}}/assets/images/386final_eda/fig6.png)
+
+
 
 ## 4. Path to Homeownership
 
@@ -46,14 +54,22 @@ Graphs
 Down Payment Percentage of Annual Income
 
 Monthly House Payment to Median Income
+![Figure]({{site.url}}/assets/images/386final_eda/fig7.png)
 
-Median Income by Field needed to Afford Monthly Housing Payment
+Down Payment
+![Figure]({{site.url}}/assets/images/386final_eda/fig8.png)
+
+
 
 ## 5. Tax Burden
 
 Paycheck-to-Paycheck Tax Burden (Income v Sales)
 
-Home Ownership Tax Burden (Property)
+![Figure]({{site.url}}/assets/images/386final_eda/fig9.png)
+![Figure]({{site.url}}/assets/images/386final_eda/fig10.png)
+![Figure]({{site.url}}/assets/images/386final_eda/fig11.png)
+![Figure]({{site.url}}/assets/images/386final_eda/fig12.png)
+
 
 
 ## 6. Conclusion
